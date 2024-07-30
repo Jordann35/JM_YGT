@@ -1,0 +1,22 @@
+body{
+    background-color:  gray;
+    color: black
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: start;
+    margin: 200px
+    padding: 200px
+}
+j
+img{
+    height: 100px;
+    width: 100px;
+}
+
+/*div{
+    border-style: double;
+    border-color: red;
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+}
